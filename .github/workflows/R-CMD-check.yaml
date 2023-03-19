@@ -22,5 +22,5 @@ jobs:
         run: |
           install.packages(c("remotes", "rcmdcheck"))
           remotes::install_deps(dependencies = TRUE)
-          rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")
+          rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error", env=c(NOT_CRAN="true"))
         shell: Rscript {0}
