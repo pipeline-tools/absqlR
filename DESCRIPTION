@@ -1,0 +1,12 @@
+Package: absql
+Title: R Port for ABSQL
+Version: 0.0.0.9000
+Authors@R: 
+    person("Chris", "Cardillo", , "cfcardillo23@gmail.com", role = c("aut", "cre"))
+Description: Renders text and SQL files.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    reticulate
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
