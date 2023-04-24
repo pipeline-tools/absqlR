@@ -1,7 +1,7 @@
-![logo](https://raw.githubusercontent.com/chriscardillo/absql/main/images/logo_centered.svg?raw=true)
+![logo](https://raw.githubusercontent.com/pipeline-tools/absql/main/images/logo_centered.svg?raw=true)
 
 <!-- badges: start -->
-![R-CMD-check](https://github.com/chriscardillo/absqlR/workflows/R-CMD-check/badge.svg)
+![R-CMD-check](https://github.com/pipeline-tools/absqlR/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 ---
